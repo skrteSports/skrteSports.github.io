@@ -1,2 +1,2 @@
-# http://skrteSports.github.io
+# http://skrteSports.github.io/SKRTs
 MyWebSite
